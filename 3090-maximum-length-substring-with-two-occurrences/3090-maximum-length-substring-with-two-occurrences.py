@@ -1,13 +1,14 @@
 class Solution:
     def maximumLengthSubstring(self, s: str) -> int:
-        n = len(s)
-        res = 0
-        for left in range(n):
-            count = [0] * 26
-            for right in range(left, n):
-                ch = ord(s[right]) - ord("a")
-                count[ch] += 1
-                if count[ch] > 2:
-                    break
-                res = max(res, right - left + 1)
-        return res
+        
+        freq = {}
+        left = 0
+        max_len = 0
+        for right in range(len(s)):
+            char = s[right]
+            freq[char] = freq.get(char, 0) + 1
+            while freq[char] > 2:
+                freq[s[left]] -= 1
+                left += 1
+            max_len = max(max_len, right - left + 1)
+        return max_len
