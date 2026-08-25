@@ -3,5 +3,5 @@ class Solution:
         seen = set(nums)
         ans = k
         while ans in seen:
-            ans += k
+            ans = ans + k
         return ans
