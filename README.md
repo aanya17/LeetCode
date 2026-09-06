@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aanya17/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aanya17/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/aanya17/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aanya17/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aanya17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1140-stone-game-ii](https://github.com/aanya17/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/aanya17/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aanya17/LeetCode/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/aanya17/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aanya17/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aanya17/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aanya17/LeetCode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/aanya17/LeetCode/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
@@ -156,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aanya17/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aanya17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aanya17/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aanya17/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aanya17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -170,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aanya17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aanya17/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
