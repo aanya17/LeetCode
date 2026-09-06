@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aanya17/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/aanya17/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aanya17/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aanya17/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aanya17/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/aanya17/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/aanya17/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/aanya17/LeetCode/tree/master/1872-stone-game-viii) |
