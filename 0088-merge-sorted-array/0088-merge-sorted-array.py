@@ -3,3 +3,4 @@ class Solution:
         temp = nums1[:m] + nums2
         temp.sort()
         nums1[:] = temp
+        
