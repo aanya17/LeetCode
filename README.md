@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/aanya17/LeetCode/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aanya17/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aanya17/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aanya17/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aanya17/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/aanya17/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aanya17/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aanya17/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aanya17/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/aanya17/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Minimax
 |  |
